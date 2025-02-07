@@ -1,4 +1,5 @@
-![image-20250207170505182](C:\Users\20998\AppData\Roaming\Typora\typora-user-images\image-20250207170505182.png)
+<img width="953" alt="git工作流" src="https://github.com/user-attachments/assets/ea2b0747-edaf-4809-b18e-5d16875bcc8c" />
+
 
 git config --global user.name "---"
 
