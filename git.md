@@ -1,4 +1,4 @@
-![git工作流](\image\git工作流.png)
+![git工作流](image\git工作流.png)
 
 # git基础用法
 
