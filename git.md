@@ -1,4 +1,4 @@
-![git工作流](C:\Users\20998\Desktop\demo1\practice-git\image\git工作流.png)
+![git工作流](\image\git工作流.png)
 
 # git基础用法
 
