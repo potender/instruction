@@ -1,4 +1,4 @@
-![git工作流](image\git工作流.png)
+[![git工作流](image\git工作流.png)](https://github.com/potender/practice-git/blob/main/image/git%E5%B7%A5%E4%BD%9C%E6%B5%81.png?raw=true)
 
 # git基础用法
 
