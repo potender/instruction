@@ -53,7 +53,7 @@
 
 
 
-**git clone http(win需要手打)**
+**git clone <https..>(win手打)**
 
 
 
@@ -61,7 +61,7 @@
 
 1、github克隆到本地
 
-**$ git clone http(手打)**
+**$ git clone <https...>(win手打)**
 
 2、将要上传的文件复制到本地仓库
 
@@ -82,6 +82,7 @@
 7、将本地仓库内容上传到远程仓库
 
 **$ git push**
+
 *win首次会跳转登陆github，ubuntu每次都需要输入用户名和tocken*
 
 # 维护仓库
