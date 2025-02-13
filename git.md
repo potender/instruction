@@ -63,7 +63,7 @@
 
 2. 初始化用户名和邮箱地址（首次需要）  **git config --global user.name "---"**    **git config --global user.email "---"**
 
-3. github克隆到本地      **$ git clone <https...>(win手打)**
+3. github克隆到本地      **$ git clone <https...>**
 
 4. 将要上传的文件复制到本地仓库
 
