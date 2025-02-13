@@ -61,29 +61,22 @@
 
 1. 在github上面创建一个新仓库，并得到仓库地址
 
-2. github克隆到本地
+2. 初始化用户名和邮箱地址（首次需要）  **git config --global user.name "---"**    **git config --global user.email "---"**
 
-**$ git clone <https...>(win手打)**
+3. github克隆到本地      **$ git clone <https...>(win手打)**
 
-3. 将要上传的文件复制到本地仓库
+4. 将要上传的文件复制到本地仓库
 
-4. 将文件添加到暂存区,add后面有空格，也可以指定文件名+格式
+5. 将文件添加到暂存区,add后面有空格，也可以指定文件名+格式    **$ git add .**
 
-**$ git add .**
+6. 将注释和暂存区的文件添加到本地仓库    **$ git commit -m "注释信息"**
 
-5. 将注释和暂存区的文件添加到本地仓库
+7. 检查远程地址链接    **$ git remote -v 检查远程仓库信息**
 
-**$ git commit -m "注释信息"**
-
-6. 检查远程地址链接
-
-**$ git remote -v 检查远程仓库信息**
-
-7. 将本地仓库内容上传到远程仓库
-
-**$ git push**
+8. 将本地仓库内容上传到远程仓库    **$ git push**
 
 *win首次会跳转登陆github，ubuntu每次都需要输入用户名和tocken*
+
 
 # 维护仓库
 
