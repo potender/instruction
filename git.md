@@ -53,7 +53,7 @@
 
 
 
-**git clone http(手打)**
+**git clone http(win需要手打)**
 
 
 
@@ -81,7 +81,8 @@
 
 7、将本地仓库内容上传到远程仓库
 
-**$ git push -u origin main**
+**$ git push**
+*win首次会跳转登陆github，ubuntu每次都需要输入用户名和tocken*
 
 # 维护仓库
 
