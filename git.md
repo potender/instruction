@@ -53,7 +53,7 @@
 
 
 
-**git clone <https..>(win手打)**
+**git clone <https..>**	克隆
 
 
 
